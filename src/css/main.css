@@ -1,0 +1,10 @@
+/* Some stuff */
+
+.cover {
+  object-fit: cover !important;
+}
+
+.home_text {
+  font-size: 20px;
+}
+
