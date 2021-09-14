@@ -3,7 +3,7 @@ let = $accordion = document.getElementById("accordion");
 let ciaData = null;
 
 fetch(
-  "./Cia.json"
+  "https://itfriroth.github.io/Spider-CIA/cia/cia.json"
 )
   .then((response) => {
     return response.json();
